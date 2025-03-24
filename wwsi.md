@@ -7,7 +7,7 @@
 #array
 #vectors
 
-# string
+# C++ string
 
 A string is a variable-length sequence of characters.
 
