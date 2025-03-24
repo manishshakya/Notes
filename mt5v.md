@@ -1,4 +1,4 @@
-# Build minimal linux
+# Build eval boards
 
 ## Setup for Build
 
