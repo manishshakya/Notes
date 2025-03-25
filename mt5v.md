@@ -12,6 +12,7 @@ export CROSS_COMPILE=arm-none-linux-gnueabihf-
 ## Build u-boot
 
 ```bash
+sudo apt install gnutls-dev
 git clone https://source.denx.de/u-boot/u-boot.git
 git checkout v2025.01
 make distclean
