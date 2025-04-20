@@ -1,4 +1,5 @@
 #rust
+#fundament-types
 
 # Programming Rust - Fundamental Types
 
